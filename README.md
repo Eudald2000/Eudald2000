@@ -19,18 +19,20 @@ I'm a second year software engineering undergraduate at University of Kelaniya a
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
 </span>
 
 <h4> Frameworks </h4>
 <span>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+	<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+  	<img alt="Static Badge" src="https://img.shields.io/badge/TAILWIND-white?style=for-the-badge&logo=Tailwind%20CSS&logoColor=white&labelColor=rgb(56%2C%20189%2C%20248)&color=rgb(56%2C%20189%2C%20248)">
+	<img alt="Static Badge" src="https://img.shields.io/badge/LARAVEL-white?style=for-the-badge&logo=Laravel&logoColor=white&labelColor=rgb(241%2C%2059%2C%2047)&color=rgb(241%2C%2059%2C%2047)">
 </span>
 
 <h4> Databases </h4>
 <span>
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+  	<img alt="Static Badge" src="https://img.shields.io/badge/Postgre SQL-white?style=for-the-badge&logo=PostgreSQL&logoColor=white&labelColor=rgb(51%2C%20103%2C%20145)&color=rgb(51%2C%20103%2C%20145)">
+	<img alt="Static Badge" src="https://img.shields.io/badge/MONGO DB-white?style=for-the-badge&logo=MONGODB&logoColor=white&labelColor=rgb(0%2C%20237%2C%20100)&color=rgb(0%2C%20237%2C%20100)">
 </span>
 
 <h4> IDE </h4>
@@ -46,11 +48,6 @@ I'm a second year software engineering undergraduate at University of Kelaniya a
 
 </span>
 
-
-
-
-    
-
 <hr>
 <p align="center">
    <i>No tree, it is said, can grow to heaven unless its roots are in hell.</i>
@@ -62,10 +59,6 @@ I'm a second year software engineering undergraduate at University of Kelaniya a
 <a target="_blank" href="https://twitter.com/S_Birunthaban"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
 <br>
 </p>
-------
-Credits: [Birunthaban Sarventhiran](https://github.com/Birunthaban)
-
-Last Edited on: 28/01/2023
 
 <!--
 **Eudald2000/Eudald2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
