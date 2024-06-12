@@ -7,7 +7,7 @@ I'm Eudald, I'm 24 y/o, I have just finished a higher degree, I'mm currently wor
 
 - 🔭 I’m currently learning more about web development
 
-- :bulb: I'm interested in: **Big Data, BlockChain **
+- :bulb:In the future I would like to learn more about : **Big Data, BlockChain, JavaScript**
 
 ## My Skills Include
 
@@ -53,7 +53,9 @@ I'm Eudald, I'm 24 y/o, I have just finished a higher degree, I'mm currently wor
    <i>No tree, it is said, can grow to heaven unless its roots are in hell.</i>
    <br>
 <br>	
-<a target="_blank" href="https://www.linkedin.com/in/birunthaban-sarventhiran/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+<!--
+	<a target="_blank" href="https://www.linkedin.com/in/birunthaban-sarventhiran/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+	-->
 <a target="_blank" href="mailto:eudald08210@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 
 <br>
