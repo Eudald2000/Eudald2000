@@ -36,8 +36,6 @@ I'm a second year software engineering undergraduate at University of Kelaniya a
 <h4> IDE </h4>
 <span>
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-<img alt="Eclipse Marketplace License" src="https://img.shields.io/eclipse-marketplace/l/IDE%20eclipse?style=flat&logo=Use%20the%20logo%20of%20eclipse">
-
 
 <h4> Other Tools and Technologies </h4>
 <span>
