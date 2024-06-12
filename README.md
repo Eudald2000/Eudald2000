@@ -36,7 +36,8 @@ I'm a second year software engineering undergraduate at University of Kelaniya a
 <h4> IDE </h4>
 <span>
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-<img src="https://img.shields.io/badge/ECLIPSE%20IDE-blue?style=flat-square&logo=ECLIPSE&logoSize=20&labelColor=rgb(65%2C%2050%2C%20124)&color=rgb(65%2C%2050%2C%20124)">
+<img src="https://img.shields.io/badge/ECLIPSE%20IDE-blue?style=for-the-badge&logo=ECLIPSE&logoSize=20&labelColor=rgb(65%2C%2050%2C%20124)&color=rgb(65%2C%2050%2C%20124)">
+
 
 <h4> Other Tools and Technologies </h4>
 <span>
