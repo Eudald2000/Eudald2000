@@ -55,7 +55,8 @@ I'm Eudald, I'm 24 y/o, I have just finished a higher degree, I'mm currently wor
 <br>	
 	<a target="_blank" href="https://www.linkedin.com/in/eudald-bosch/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 	<a target="_blank" href="mailto:eudald08210@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
-
+ 	<a target="_blank" href="https://eudaldbosch.000webhostapp.com"><img src="https://img.shields.io/badge/GITHUB-white?style=for-the-badge&logo=github&logoColor=white&labelColor=rgb(13%2C%2017%2C%2023)&color=rgb(13%2C%2017%2C%2023)"></img></a>
+	
 <br>
 </p>
 
