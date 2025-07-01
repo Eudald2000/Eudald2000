@@ -1,13 +1,13 @@
 ### Hi there 👋 I'm Eudald Bosch,
 
-I'm Eudald, I'm 24 y/o, I have just finished a higher degree, I'mm currently working on personal projects.
+I'm Eudald, I'm 25 y/o, I have just finished a higher degree, I'mm currently working on personal projects.
 
 ## 💫 About Me:
 - 📽️ If you ask me if I like to go out, I am one of those who answer "I prefer Netflix and chill". I love to relax watching movies or series at home.
 
-- 🔭 I’m currently learning more about web development
+- 🔭 I’m currently learning more about web development, I am specifically learning React, as I find it very interesting.
 
-- :bulb:In the future I would like to learn more about : **Big Data, BlockChain, JavaScript**
+- :bulb:In the future I would like to learn more about : **Big Data, React, Next.JS, AI, BBDD**
 
 ## My Skills Include
 
