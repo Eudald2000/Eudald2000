@@ -1,76 +1,71 @@
-### Hi there 👋 I'm Eudald Bosch,
+# Hey, soy Eudald 👋
 
-I'm Eudald, I'm 25 y/o, I have just finished a higher degree, I'mm currently working on personal projects.
+Desarrollador full-stack con experiencia real en empresa. Me gusta construir cosas que funcionen bien y que tengan sentido para quien las usa.
 
-## 💫 About Me:
-- 📽️ If you ask me if I like to go out, I am one of those who answer "I prefer Netflix and chill". I love to relax watching movies or series at home.
+Actualmente buscando mi siguiente oportunidad mientras sigo aprendiendo y construyendo proyectos propios.
 
-- 🔭 I’m currently learning more about web development, I am specifically learning React, as I find it very interesting.
+---
 
-- :bulb:In the future I would like to learn more about : **Big Data, React, Next.JS, AI, BBDD**
+## 🛠️ Stack
 
-## My Skills Include
+**Front-End**
 
-<h4> Languages </h4>
-<span> 
-	<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-	<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
- 	<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-	<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-	<img alt="Static Badge" src="https://img.shields.io/badge/Postgre SQL-white?style=for-the-badge&logo=PostgreSQL&logoColor=white&labelColor=rgb(51%2C%20103%2C%20145)&color=rgb(51%2C%20103%2C%20145)">
-</span>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-<h4> Frameworks </h4>
-<span>
-	<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-  	<img alt="Static Badge" src="https://img.shields.io/badge/TAILWIND-white?style=for-the-badge&logo=Tailwind%20CSS&logoColor=white&labelColor=rgb(56%2C%20189%2C%20248)&color=rgb(56%2C%20189%2C%20248)">
-	<img alt="Static Badge" src="https://img.shields.io/badge/LARAVEL-white?style=for-the-badge&logo=Laravel&logoColor=white&labelColor=rgb(241%2C%2059%2C%2047)&color=rgb(241%2C%2059%2C%2047)">
-	<img alt="Static Badge" src="https://img.shields.io/badge/react-white?style=for-the-badge&logo=react&logoColor=white&labelColor=rgb(88%2C%20196%2C%20220)&color=rgb(88%2C%20196%2C%20220)">
-	<img alt="Static Badge" src="https://img.shields.io/badge/jQuery-white?style=for-the-badge&logo=jQuery&logoColor=white&labelColor=rgb(7%2C%20105%2C%20173)&color=rgb(7%2C%20105%2C%20173)">
-</span>
+**Back-End**
 
-<h4> Databases </h4>
-<span>
-	<img alt="Static Badge" src="https://img.shields.io/badge/pgAdmin%204-white?style=for-the-badge&logo=pgAdmin%204&logoColor=white&labelColor=rgb(51%2C%20103%2C%20145)&color=rgb(51%2C%20103%2C%20145)">
-</span>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-<h4> IDE </h4>
-<span>
-<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-<img src="https://img.shields.io/badge/ECLIPSE%20IDE-blue?style=for-the-badge&logo=ECLIPSE&logoSize=20&labelColor=rgb(65%2C%2050%2C%20124)&color=rgb(65%2C%2050%2C%20124)">
+**Bases de datos**
 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-<h4> Other Tools and Technologies </h4>
-<span>
- 	<img src="https://img.shields.io/badge/GITHUB-white?style=for-the-badge&logo=github&logoColor=white&labelColor=rgb(13%2C%2017%2C%2023)&color=rgb(13%2C%2017%2C%2023)">
-  	<img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white">
+**Herramientas**
 
-</span>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
 
-<hr>
-<p align="center">
-   <i>No tree, it is said, can grow to heaven unless its roots are in hell.</i>
-   <br>
-<br>	
-	<a target="_blank" href="https://www.linkedin.com/in/eudald-bosch/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-	<a target="_blank" href="mailto:eudald08210@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
- 	<a target="_blank" href="https://eudaldbosch.000webhostapp.com"><img src="https://img.shields.io/badge/GITHUB-white?style=for-the-badge&logo=github&logoColor=white&labelColor=rgb(13%2C%2017%2C%2023)&color=rgb(13%2C%2017%2C%2023)"></img></a>
-	
-<br>
-</p>
+---
 
-<!--
-**Eudald2000/Eudald2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Proyectos
 
-Here are some ideas to get you started:
+### 📚 Biblioteca AI
+Plataforma web para préstamo y compra de libros con panel de administración completo.  
+`Next.js 16` `TypeScript` `Supabase` `Tailwind CSS v4` `Jest`  
+[→ Ver repositorio](https://github.com/Eudald2000/biblioteca-ai)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🏛️ Biblioteca Laravel
+App web para gestionar una biblioteca física con autenticación con Google y panel de administración.  
+`Laravel 10` `PHP 8.1` `MySQL` `Tailwind CSS` `Sanctum` `Socialite`  
+[→ Ver repositorio](https://github.com/Eudald2000/Biblioteca-Laravel)
+
+### 🔍 Buscador Pokémon
+Buscador de Pokémon con datos en tiempo real desde la PokéAPI.  
+`React` `Vite` `JavaScript` `PokéAPI`  
+[→ Ver repositorio](https://github.com/Eudald2000/Buscador-Pokemon) · [→ Demo en vivo](https://eudald2000.github.io/Buscador-Pokemon)
+
+### 🌐 Portfolio Personal
+Mi sitio web personal, desplegado en producción.  
+`React 17` `Bootstrap` `Styled Components`  
+[→ Ver demo](https://eudald2000.github.io)
+
+---
+
+## 📬 Contacto
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eudald-bosch/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eudald08210@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://eudald2000.github.io)
