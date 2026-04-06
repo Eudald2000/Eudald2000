@@ -1,8 +1,6 @@
 # Hey, soy Eudald 👋
 
-Desarrollador full-stack con experiencia real en empresa. Me gusta construir cosas que funcionen bien y que tengan sentido para quien las usa.
-
-Actualmente buscando mi siguiente oportunidad mientras sigo aprendiendo y construyendo proyectos propios.
+Desarrollo aplicaciones web de principio a fin, tanto el front-end como el back-end. Tengo un año de experiencia real en empresa y sigo construyendo proyectos propios para seguir aprendiendo.
 
 ---
 
@@ -40,6 +38,27 @@ Actualmente buscando mi siguiente oportunidad mientras sigo aprendiendo y constr
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Eudald2000&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=4A9EBF&icon_color=4A9EBF&text_color=ffffff" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eudald2000&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=4A9EBF&text_color=ffffff" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eudald2000&theme=dark&hide_border=true&background=0d1117&ring=4A9EBF&fire=4A9EBF&currStreakLabel=4A9EBF"/>
+</p>
+
+---
+
+## 🐍 Contribuciones
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Eudald2000/Eudald2000/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
 ## 🚀 Proyectos
 
 ### 📚 Biblioteca AI
@@ -53,7 +72,7 @@ App web para gestionar una biblioteca física con autenticación con Google y pa
 [→ Ver repositorio](https://github.com/Eudald2000/Biblioteca-Laravel)
 
 ### 🔍 Buscador Pokémon
-Buscador de Pokémon con datos en tiempo real desde la PokéAPI.  
+Buscador con datos en tiempo real desde la PokéAPI, desplegado en producción.  
 `React` `Vite` `JavaScript` `PokéAPI`  
 [→ Ver repositorio](https://github.com/Eudald2000/Buscador-Pokemon) · [→ Demo en vivo](https://eudald2000.github.io/Buscador-Pokemon)
 
